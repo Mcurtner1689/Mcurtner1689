@@ -4,8 +4,6 @@
 **Mcurtner1689/Mcurtner1689** is a ✨ _special_ ✨ repository
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on automating network processes
 - 🌱 I’m currently learning how to script with python
 - 👯 I’m looking to collaborate on ... TBD
